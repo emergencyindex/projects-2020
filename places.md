@@ -6,7 +6,6 @@ title: "Index 2020: Places"
 ---
 
 {: .index-ul }
-
 - **Argentina**
   - Buenos Aires [018], [418], [624]
   - Santo Tome [192]
